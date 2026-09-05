@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am a Computer Science Engineering student at SRMIST RAMAPURAM CHENNAI.<br>
 
 # 💻 Tech Stack:
